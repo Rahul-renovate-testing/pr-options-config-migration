@@ -1,5 +1,7 @@
 {
-  "gitLabIgnoreApprovals": true,
+  "prOptions": {
+    "gitLabIgnoreApprovals": true
+  },
   "bbUseDefaultReviewers": true,
   "azureWorkItemId": 123123,
   "configMigration": true
