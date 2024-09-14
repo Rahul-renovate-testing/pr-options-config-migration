@@ -1,0 +1,5 @@
+{
+  "gitLabIgnoreApprovals": true,
+  "bbUseDefaultReviewers": true,
+  "azureWorkItemId": 123123
+}
